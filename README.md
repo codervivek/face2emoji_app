@@ -16,7 +16,7 @@ Install android studio.
 
 ## Built With
 
-* Android Studio (using Java) - The Official IDE for Android
+* [Android Studio](https://developer.android.com/studio/index.html) (using Java) - The Official IDE for Android
 
 ## Contributing
 
