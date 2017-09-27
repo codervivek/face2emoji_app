@@ -1,4 +1,4 @@
-# face2emoji_app
+# Face2Emoji Android App
 An android messaging app which can convert facial expressions from a photo to a matching emoji.
 
 ## Getting Started
